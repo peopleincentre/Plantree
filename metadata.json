@@ -1,0 +1,6 @@
+{
+  "name": "Plantree by PiC: Managing Ladscape Planting",
+  "description": "An application to help with planning for landscape planting. Design grids, manage a plant database, generate procurement lists, and find plant substitutes with AI assistance.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
